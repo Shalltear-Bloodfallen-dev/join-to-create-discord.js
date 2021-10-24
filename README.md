@@ -4,7 +4,7 @@ This is version only for Discord.JS V13, if you want see JTC for V12 visit page 
 
 # Installation | How to use the Bot
 
-1. Install node.js v16 or higher
+1. Install [node.js](https://nodejs.org/) v16 or higher
 
 2. Download this repo and unzip it | or git clone it
 
