@@ -16,7 +16,11 @@ This is version only for Discord.JS V13, if you want see JTC for V12 visit page 
 
 ```js
 const Discord = require("discord.js");          //load the Discord.js Library
-const client = new Discord.Client();            //make a new Client
+const client = new Discord.Client({
+    intents: [
+      Discord.Intents.FLAGS.GUILD_VOICE_STATES
+    ]
+});            //make a new Client
 
 const config = require("./config.json");        //load in all of the config files
 
