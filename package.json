@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "quick.db": "^7.1.3"
+  },
+  "name": "join-to-create",
+  "description": "This is version only for Discord.JS V13, if you want see JTC for V12 visit page of [original project](https://github.com/Tomato6966/Discord-Join-to-Create)",
+  "version": "4.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shalltear-Bloodfallen-dev/join-to-create-discord.js.git"
+  },
+  "author": "ΛLLΛN#4529",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shalltear-Bloodfallen-dev/join-to-create-discord.js/issues"
+  },
+  "homepage": "https://github.com/Shalltear-Bloodfallen-dev/join-to-create-discord.js#readme"
+}
